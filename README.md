@@ -1,7 +1,6 @@
 # Aplicación de gestión de usuarios y roles (Node.js + PostgreSQL)
 
-Esta es una aplicación backend construida con **Node.js**, **Express** y **PostgreSQL**, enfocada en la administración de usuarios y roles.  
-El proyecto implementa un modelo de datos estructurado con **Sequelize (ORM)**, permitiendo operaciones CRUD completas y aplicando buenas prácticas de conexión, modularización y validación.
+Esta es una aplicación backend construida con **Node.js**, **Express** y **PostgreSQL**, enfocada en la administración de usuarios y roles. El proyecto implementa un modelo de datos estructurado con **Sequelize (ORM)**, permitiendo operaciones CRUD completas y aplicando buenas prácticas de conexión, modularización y validación.
 
 El objetivo principal fue consolidar habilidades en **Express**, **Sequelize**, **PostgreSQL**, manejo de rutas REST, control de errores y estructura MVC simplificada.
 
